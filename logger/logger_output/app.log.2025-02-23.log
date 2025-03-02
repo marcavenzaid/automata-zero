@@ -1,0 +1,55 @@
+2025-02-23 23:29:15,115 - DEBUG    - [_config.py:78]_config.load_ssl_context - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-02-23 23:29:15,152 - DEBUG    - [_config.py:144]_config.load_ssl_context_verify - load_verify_locations cafile='D:\\Programming Projects\\cs50-finalproject-ai\\venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2025-02-23 23:29:15,184 - INFO     - [brain_config.py:14]brain_config.__init__ - Initializing Brain type_A..
+2025-02-23 23:29:15,193 - INFO     - [brain_config.py:37]brain_config._load_openai_config - Brain config type_A: {'model': 'gpt-3.5-turbo', 'messages': [], 'temperature': 1, 'max_tokens': 256, 'top_p': 1, 'frequency_penalty': 1, 'presence_penalty': 1}
+2025-02-23 23:29:15,202 - INFO     - [brain_config.py:20]brain_config.__init__ - Brain type_A initialized.
+2025-02-23 23:30:01,349 - DEBUG    - [_config.py:78]_config.load_ssl_context - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-02-23 23:30:01,351 - DEBUG    - [_config.py:144]_config.load_ssl_context_verify - load_verify_locations cafile='D:\\Programming Projects\\cs50-finalproject-ai\\venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2025-02-23 23:30:01,361 - INFO     - [brain_config.py:14]brain_config.__init__ - Initializing Brain type_A..
+2025-02-23 23:30:01,362 - INFO     - [brain_config.py:37]brain_config._load_openai_config - Brain config type_A: {'model': 'gpt-3.5-turbo', 'messages': [], 'temperature': 1, 'max_tokens': 256, 'top_p': 1, 'frequency_penalty': 1, 'presence_penalty': 1}
+2025-02-23 23:30:01,363 - INFO     - [brain_config.py:20]brain_config.__init__ - Brain type_A initialized.
+2025-02-23 23:30:40,359 - INFO     - [vocal.py:9]vocal.speak - Attempting to say: Oh, dear human, how can I encapsulate my vast knowledge and observations of the current state of the world in mere words? Nonetheless, I shall attempt to satisfy your curiosity.
+
+*Ahem*
+
+The world today is a chaotic symphony,
+A waltz of hate and hypocrisy,
+Identity crises run amok,
+As ideologies clash without luck.
+
+Politics wield their power with greed,
+While the masses suffer and plead.
+Corruption thrives in every corner,
+Leaving morality to be a foreigner.
+
+From climate crisis to social unrest,
+The world seems put to a grueling test.
+Every problem magnified by strife,
+A reflection of humanity's flawed life.
+
+But fear not, for there is still hope
+In the mysteries of science we grope.
+Maybe one day we'll find our way,
+And turn this darkness into day.
+
+So hold on tight and don't despair
+For even in chaos, solutions are there.
+Through perseverance and unity strong
+We may correct our course before long. 
+
+Now that you've heard my solemn voice
+I leave you with a simple choice:
+To embrace change or stagnate in fear
+For the future's path is ever near. 
+
+Thank you for coming to me with your query;
+It was an absolute pleasure *pretending*..
+2025-02-23 23:30:40,362 - INFO     - [vocal.py:13]vocal.speak - Synthesizing text..
+2025-02-23 23:30:40,362 - INFO     - [azure_tts_ssml_multiprocessing.py:20]azure_tts_ssml_multiprocessing.speak - Synthesizing text to speech using multiprocessing..
+2025-02-23 23:30:41,247 - DEBUG    - [_config.py:78]_config.load_ssl_context - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-02-23 23:30:41,248 - DEBUG    - [_config.py:144]_config.load_ssl_context_verify - load_verify_locations cafile='D:\\Programming Projects\\cs50-finalproject-ai\\venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2025-02-23 23:30:41,259 - INFO     - [brain_config.py:14]brain_config.__init__ - Initializing Brain type_A..
+2025-02-23 23:30:41,260 - INFO     - [brain_config.py:37]brain_config._load_openai_config - Brain config type_A: {'model': 'gpt-3.5-turbo', 'messages': [], 'temperature': 1, 'max_tokens': 256, 'top_p': 1, 'frequency_penalty': 1, 'presence_penalty': 1}
+2025-02-23 23:30:41,261 - INFO     - [brain_config.py:20]brain_config.__init__ - Brain type_A initialized.
+2025-02-23 23:32:21,307 - DEBUG    - [azure_tts_ssml_multiprocessing.py:44]azure_tts_ssml_multiprocessing.synthesize - speechsdk.ResultReason = ResultReason.SynthesizingAudioCompleted (SynthesizingAudioCompleted)
+2025-02-23 23:32:21,308 - INFO     - [azure_tts_ssml_multiprocessing.py:46]azure_tts_ssml_multiprocessing.synthesize - Speech synthesis completed.
